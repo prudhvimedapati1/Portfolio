@@ -37,18 +37,25 @@
 }
 
 .portfolio__item-desc{
+
     position: absolute;
     /* z-index: -1; */
-    padding: 4rem 2rem;
+    padding: 8% 5%;
 }
 
-
+.portfolio__item-desc p{
+    font-size: 1vw;
+}
 
 
 @media screen and (max-width: 1024px){
     .portfolio__container{
         grid-template-columns: repeat(2,1fr);
         gap: 1.2rem;
+    }
+
+    .portfolio__item-desc p{
+        font-size: 1.8vw;
     }
 }
 
@@ -57,6 +64,10 @@
         grid-template-columns: 1fr;
         gap: 1rem;
         width: 80%;
+    }
+
+    .portfolio__item-desc p{
+        font-size: 3vw;
     }
     
 }
