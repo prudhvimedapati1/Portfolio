@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css';
-import IMG from '../../assets/image1.png'
+import IMG from '../../assets/IMG_20230107_144935.jpg'
 import {BiAward} from 'react-icons/bi'
 import {FaStar,FaUserTie} from 'react-icons/fa'
 
