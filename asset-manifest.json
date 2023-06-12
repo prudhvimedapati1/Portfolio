@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "//prudhvimedapati1.github.io/Portfolio/static/css/main.f7ddab1f.css",
-    "main.js": "//prudhvimedapati1.github.io/Portfolio/static/js/main.67d4354b.js",
+    "main.css": "//prudhvimedapati1.github.io/Portfolio/static/css/main.d1b6b9c0.css",
+    "main.js": "//prudhvimedapati1.github.io/Portfolio/static/js/main.c0b36c71.js",
     "static/media/Screenshot (72).png": "//prudhvimedapati1.github.io/Portfolio/static/media/Screenshot (72).ec77c5c2a46774453fc4.png",
     "static/media/Screenshot (73).png": "//prudhvimedapati1.github.io/Portfolio/static/media/Screenshot (73).9f0155efa2f661c88252.png",
+    "static/media/IMG_20230107_144935.jpg": "//prudhvimedapati1.github.io/Portfolio/static/media/IMG_20230107_144935.4baf8a0f03495cd41f06.jpg",
     "static/media/Prudhvi resume apr14.pdf": "//prudhvimedapati1.github.io/Portfolio/static/media/Prudhvi resume apr14.4309e7caef30a16a86c6.pdf",
     "static/media/Screenshot (69).png": "//prudhvimedapati1.github.io/Portfolio/static/media/Screenshot (69).73edd59190bf88cf3e44.png",
+    "static/media/IMG_20230107_144935-removebg-preview.png": "//prudhvimedapati1.github.io/Portfolio/static/media/IMG_20230107_144935-removebg-preview.054a2e4bb3e631a00c20.png",
     "static/media/Screenshot (68).png": "//prudhvimedapati1.github.io/Portfolio/static/media/Screenshot (68).81f755d494aa4a93c4e9.png",
     "static/media/521070.jpg": "//prudhvimedapati1.github.io/Portfolio/static/media/521070.f85b30a281321af10017.jpg",
     "static/media/Screenshot_2023-04-09-11-33-20-736_com.example.onboarding-edit.jpg": "//prudhvimedapati1.github.io/Portfolio/static/media/Screenshot_2023-04-09-11-33-20-736_com.example.onboarding-edit.ad6531058c55a7e256da.jpg",
     "static/media/Screenshot (70).png": "//prudhvimedapati1.github.io/Portfolio/static/media/Screenshot (70).c54539762ef8b72f920b.png",
-    "static/media/image1.png": "//prudhvimedapati1.github.io/Portfolio/static/media/image1.f25536298d36edb6494e.png",
     "static/media/Screenshot (74).png": "//prudhvimedapati1.github.io/Portfolio/static/media/Screenshot (74).f22125a5869ac7bdc239.png",
     "static/media/Screenshot (75).png": "//prudhvimedapati1.github.io/Portfolio/static/media/Screenshot (75).83fd15c20b8be77f81a9.png",
-    "static/media/logo.svg": "//prudhvimedapati1.github.io/Portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "//prudhvimedapati1.github.io/Portfolio/index.html",
-    "main.f7ddab1f.css.map": "//prudhvimedapati1.github.io/Portfolio/static/css/main.f7ddab1f.css.map",
-    "main.67d4354b.js.map": "//prudhvimedapati1.github.io/Portfolio/static/js/main.67d4354b.js.map"
+    "main.d1b6b9c0.css.map": "//prudhvimedapati1.github.io/Portfolio/static/css/main.d1b6b9c0.css.map",
+    "main.c0b36c71.js.map": "//prudhvimedapati1.github.io/Portfolio/static/js/main.c0b36c71.js.map"
   },
   "entrypoints": [
-    "static/css/main.f7ddab1f.css",
-    "static/js/main.67d4354b.js"
+    "static/css/main.d1b6b9c0.css",
+    "static/js/main.c0b36c71.js"
   ]
 }
