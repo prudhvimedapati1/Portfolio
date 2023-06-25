@@ -7,7 +7,7 @@ const Experience = () => {
       <h5>What have I studied</h5>
       <h2>My Education</h2>
 
-      <div className="container services__container">
+      <div className="container services__container" >
         <article className="service">
           <div className="service__head">
             <h3>B.Tech</h3>

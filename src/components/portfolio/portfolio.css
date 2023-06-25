@@ -36,6 +36,17 @@
     margin-bottom: 1rem;
 }
 
+.portfolio__item-live{
+    margin-bottom: 1rem;
+    background-color: var(--color-primary);
+    color: white;
+}
+
+.portfolio__btns{
+    display: flex;
+    gap: 1em;
+}
+
 .portfolio__item-desc{
 
     position: absolute;
